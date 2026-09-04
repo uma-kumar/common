@@ -32,7 +32,7 @@ The Cloud Shell machine is a small virtual machine running a Bash shell which yo
 
     ![View Login Info](https://oracle-livelabs.github.io/common/labs/need-help/images/view-login-info.png " ")
 
-   ![Select Compartment](../../images/console/compute-instance-compartment.png " ")
+   ![Select Compartment](./images/compute-instance-compartment.png " ")
 
 3. Go to your Cloud console and click **Cloud Shell** at the top right of the page.
 
